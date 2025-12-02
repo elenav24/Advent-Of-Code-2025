@@ -13,7 +13,7 @@ for x in ranges:
         if i < 10:
             continue
         half = int(len(str(i)) / 2)
-        for j in range(1, half+1):
+        for j in range(half, 0, -1):
             if len(str(i)) % j != 0:
                 continue
             num = int(len(str(i)) / j)
