@@ -22,5 +22,5 @@ for x in ranges:
                 total += i
                 break
 
-print(total)
+print("answer:", total)
         

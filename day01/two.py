@@ -36,4 +36,4 @@ for x in rotations:
             ans += 1
             count -= 100
             
-print(ans)
+print("answer:", ans)

@@ -15,5 +15,5 @@ for x in rotations:
     if index % 100 == 0:
         ans += 1
             
-print(ans)
+print("answer:", ans)
     

@@ -16,5 +16,5 @@ for x in ranges:
         if str(i)[0:half] == str(i)[half:]:
             total += int(i)
 
-print(total)
+print("answer:", total)
         
