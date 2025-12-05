@@ -1,6 +1,5 @@
 import sys
 
-
 input = []
 inventory = []
 total = 0
